@@ -1,0 +1,13 @@
+div {
+  color: green;
+  text-align : center;
+}
+
+.odd-article h1{      
+  /* .은 class를 의미함, #은 id를 의미함 */
+  color: blue;
+}
+
+#highlight {
+  color: red;
+}

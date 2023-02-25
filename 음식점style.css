@@ -1,0 +1,22 @@
+.name {
+  font-size: 40px;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.location {
+  font-size:20px;
+}
+.item-picture {
+
+}
+
+.item-text{
+
+}
